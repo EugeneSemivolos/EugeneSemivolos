@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@e_semivolos](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [there](https://telegram.me/e_semivolos)</code>
 <code>📫 [your-email](mailto:semivolos.evgen1@gmailcom)</code>
