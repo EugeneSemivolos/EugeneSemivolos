@@ -9,4 +9,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 [telegram](https://telegram.me/e_semivolos)</code>
-<code>📫 [your-email](mailto:semivolos.evgen1@gmailcom)</code>
+<code>📫 [email](mailto:semivolos.evgen1@gmailcom)</code>
